@@ -1,0 +1,1 @@
+# Adaequare_Project
