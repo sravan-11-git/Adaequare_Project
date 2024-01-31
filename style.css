@@ -1,0 +1,960 @@
+@media (min-width: 1200px) {
+    .container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+        width: 1170px;
+    }
+}
+@media (min-width: 992px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 970px;
+}
+}
+
+@media (min-width: 768px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 750px;
+}}
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media only screen and (min-width: 992px){
+.element-home-blog, .feature-product.element-home-product {
+    padding: 0!important;
+}
+.elementor-section {
+    position: relative;
+}
+.elementor-element {
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: var(--flex-direction);
+    flex-direction: var(--flex-direction);
+    -ms-flex-wrap: var(--flex-wrap);
+    flex-wrap: var(--flex-wrap);
+    -webkit-box-pack: var(--justify-content);
+    -ms-flex-pack: var(--justify-content);
+    justify-content: var(--justify-content);
+    -webkit-box-align: var(--align-items);
+    -ms-flex-align: var(--align-items);
+    align-items: var(--align-items);
+    -ms-flex-line-pack: var(--align-content);
+    align-content: var(--align-content);
+    gap: var(--gap);
+    -ms-flex-preferred-size: var(--flex-basis);
+    flex-basis: var(--flex-basis);
+    -webkit-box-flex: var(--flex-grow);
+    -ms-flex-positive: var(--flex-grow);
+    flex-grow: var(--flex-grow);
+    -ms-flex-negative: var(--flex-shrink);
+    flex-shrink: var(--flex-shrink);
+    -webkit-box-ordinal-group: var(--order);
+    -ms-flex-order: var(--order);
+    order: var(--order);
+    -ms-flex-item-align: var(--align-self);
+    align-self: var(--align-self);
+}}
+
+
+
+.elementor {
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
+.elementor-kit-9036 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-582b44d9: #4054B2;
+    --e-global-color-212ff461: #23A455;
+    --e-global-color-17cea6c3: #000;
+    --e-global-color-24c92064: #FFF;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+}
+
+body {
+    font-size: 14px;
+    line-height: 2;
+    color: #444;
+    background-color: #fff;
+}
+
+
+
+
+
+
+@media (min-width: 1200px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 1170px;
+}}
+@media (min-width: 992px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 970px;}
+}
+@media (min-width: 768px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 750px;
+}}
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media only screen and (min-width: 992px){
+.element-home-blog, .feature-product.element-home-product {
+    padding: 0!important;
+}
+.elementor-section {
+    position: relative;
+}
+.elementor-element {
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: var(--flex-direction);
+    flex-direction: var(--flex-direction);
+    -ms-flex-wrap: var(--flex-wrap);
+    flex-wrap: var(--flex-wrap);
+    -webkit-box-pack: var(--justify-content);
+    -ms-flex-pack: var(--justify-content);
+    justify-content: var(--justify-content);
+    -webkit-box-align: var(--align-items);
+    -ms-flex-align: var(--align-items);
+    align-items: var(--align-items);
+    -ms-flex-line-pack: var(--align-content);
+    align-content: var(--align-content);
+    gap: var(--gap);
+    -ms-flex-preferred-size: var(--flex-basis);
+    flex-basis: var(--flex-basis);
+    -webkit-box-flex: var(--flex-grow);
+    -ms-flex-positive: var(--flex-grow);
+    flex-grow: var(--flex-grow);
+    -ms-flex-negative: var(--flex-shrink);
+    flex-shrink: var(--flex-shrink);
+    -webkit-box-ordinal-group: var(--order);
+    -ms-flex-order: var(--order);
+    order: var(--order);
+    -ms-flex-item-align: var(--align-self);
+    align-self: var(--align-self);
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+.elementor {
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
+.elementor-kit-9036 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-582b44d9: #4054B2;
+    --e-global-color-212ff461: #23A455;
+    --e-global-color-17cea6c3: #000;
+    --e-global-color-24c92064: #FFF;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+}
+body {
+    font-size: 14px;
+    line-height: 2;
+    color: #444;
+    background-color: #fff;
+}
+body, .ftc-shoppping-cart a.ftc_cart:hover, .woocommerce a.remove, body.wpb-js-composer .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab, .woocommerce .products .star-rating.no-rating, .woocommerce-page .products .star-rating.no-rating, .star-rating.no-rating:before, .pp_woocommerce .star-rating.no-rating:before, .woocommerce .star-rating.no-rating:before, .woocommerce-page .star-rating.no-rating:before, .woocommerce .product .images .group-button-product > div a, .woocommerce .product .images .group-button-product > a, .vc_progress_bar .vc_single_bar .vc_label, .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline-custom, .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline-custom, .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline-custom, .style1 .ftc-countdown .counter-wrapper > div .countdown-meta, .style2 .ftc-countdown .counter-wrapper > div .countdown-meta, .style3 .ftc-countdown .counter-wrapper > div .countdown-meta, .style4 .ftc-countdown .counter-wrapper > div .number-wrapper .number, .style4 .ftc-countdown .counter-wrapper > div .countdown-meta, body table.compare-list tr.remove td > a .remove:before, .woocommerce-page .products.list .product h3.product-name a, .col-left-27-cate .style_1.ftc-product-categories .item-desciption .title, .ftc-product-tabs.style_4 .woocommerce .product .item-description .price .woocommerce-Price-amount, .ftc-element-image .ftc-image-content.style_8 .left-content .left-sale, .ftc-element-image .ftc-image-content .left-content .left-sale, .header-layout24 .header-ftc:not(.header-layout2) .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link *, .ftc_products_deal_slider.style_1 .woocommerce .products .product .item-description .product_title a, .ftc_products_deal_slider.style_1 .woocommerce .products .product .price .amount, .form-item-29 label, .cop-left-29, .cop-left-29 a, .ftc_products_slider.style_11 .woocommerce .products .product .item-description .price .amount, .tx1-sale-h41, .tx2-sale-h41, .color-text-h53 {
+    color: #444444;
+}
+body, .site-footer, .woocommerce div.product form.cart .group_table td.label, .woocommerce .product .conditions-box span, .item-description .meta_info .yith-wcwl-add-to-wishlist a, .item-description .meta_info .compare, .info-company li i, .social-icons .ftc-tooltip:before, .tagcloud a, .details_thumbnails .owl-nav > div:before, div.product .summary .yith-wcwl-add-to-wishlist a:before, .pp_woocommerce div.product .summary .compare:before, .woocommerce div.product .summary .compare:before, .woocommerce-page div.product .summary .compare:before, .woocommerce #content div.product .summary .compare:before, .woocommerce-page #content div.product .summary .compare:before, .woocommerce div.product form.cart .variations label, .woocommerce-page div.product form.cart .variations label, .pp_woocommerce div.product form.cart .variations label, blockquote, .ftc-number h3.ftc_number_meta, .woocommerce .widget_price_filter .price_slider_amount, .wishlist-empty, .woocommerce div.product form.cart .button, .woocommerce table.wishlist_table {
+    font-size: 14px;
+}
+html, body, .widget-title.heading-title, .widget-title.product_title, .newletter_sub_input .button.button-secondary, .our-newletter .mc4wp-form-fields p, .trending-product .wpb_wrapper h1, #pp_full_res .pp_inline .price span.amount, .woocommerce div.product .summary .amount, .woocommerce div.product .summary h1.product_title.entry-title, .ftc-feature .ftc_feature_content h3, div.product div.summary form.cart .group_table td .quantity-title, .single-post article .post-info .entry-title, .deal-today h2, .woocommerce div.product .product_title, .section-welcome p, .h7-freeship .ftc-feature .ftc_feature_content p, .title-h7 p, .woocommerce .product-version-2 .products .product .item-description .product-categories, .woocommerce .featured-deals .product .item-description .product-categories, .featured-deals .counter-wrapper > div .number-wrapper .number, .ftc-sb-testimonial_v2 .testimonial-content .byline, .ftc-sb-testimonial_v2 .testimonial-content .info, .ftc-shortcode-v2 .post-img .date-time >div, .ftc-shortcode-v2 .blogs article h3.product_title, body .ftc-shortcode-v2 .blogs .entry-content p, .ftc-shortcode-v2 .blogs .tab-blog, .color-map .wpb_wrapper >p, .footer-middle-v2 p, .row-bottom-v2 .copy-com, .header-layout5 .ftc-search-product .ftc-search, .h8-banner p, .h8-banner .ftc-sb-button a, .jewe-title h2, .tithome14, .slideh13 .ring, .mont, .hotspot-content-title a, .single-portfolio .info-content h2.entry-title, .ftc-portfolio-wrapper .portfolio-inner .item .thumbnail .figcaption h3 a, .single-portfolio .meta-content .portfolio-info p, .dark_layout .blogs article h3.product_title a, .pp_woocommerce div.product .product_title a, .ftc-shortcode-v3 .entry-header, .breadcrumb-v1, .single-post .blogs article h3.product_title a, .single-post article .blockquote-meta, h3.product_title, .single-post #comments h2.comments-title, .single-post #comments .total-comment .name, .single-post blockquote .author, .wpb-js-composer .vc_tta.vc_general.faq-02 .vc_tta-panel-heading span.vc_tta-title-text, .faq-03row .wpcf7 input[type^="submit"], .light-v1.ftc-countdown .counter-wrapper > div .number-wrapper .number, .coming02 .mc4wp-form-fields input[type='submit'], .light-v2.ftc-countdown .counter-wrapper > div .number-wrapper .number, .widget-container.ftc-blogs-widget ul.post_list_widget li a.post-title, div.berocket_single_filter_widget h3.widget-title, .breadcrumb-v3 .ftc-breadcrumb-title h1, .tab-home21 h2, div.products-home21 .product .item-description .meta_info a, .woocommerce .products-home21 .load-more-wrapper .button, .feature-home21 .feature-content .ftc_feature_content p, .text-p1_21 h3, .text-p1_21 .ftc-sb-button a.ftc-button, .img-left-h21_3 .wpb_text_column, .text-p3_21 .ftc-sb-button a.ftc-button, .insta-h21 h2.widgettitle, .footer-middle21 h3, .text-home20 h3, .text-home20 h2, .title-header-h21 h2, .footer-center-h20 h3, .footer-center-h20 h2.widgettitle, .text-home22 h3, .text2_home22 h3, .text2_home22 .ftc-sb-button a.ftc-button, .blog-home22 .header-title .product_title, .blog-home22 .blogs .post-info, .blog-home22 .blogs .post-info p, .text2_home22 p, .elementor-widget-text-editor h1, h4.footer-title-mid-23, h2.logo-text-24, .heading_blog1 h1, .elementor-element .footer-mid-23 h3, .text-gl-home24 p, .text-gl-2-home24 .elementor-text-editor h2, .text-gl-2-home24 .elementor-text-editor span a, .elementor-element .footer-title-mid-24, .header-layout21 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link .link_text, .form-item-29 label, .author span:first-child, .ftc-image-content.style_2 .text-img-30 h1, .ftc-image-content.style_2 .text-left-img-30 h4, .ftc-image-content.style_2 .text-left-img-2-30 h1, .text-single-30 h1, .form-item-30 label, .big-product .ftc-product-tabs .style_2 .woocommerce .product .item-description h3.product_title, .big-product .ftc-product-tabs .style_2 .woocommerce .product .price .amount, .pro-3 .ftc-product-tabs .style_2 .woocommerce .product .item-description h3.product_title, .ftc-blogs-slider .style_1 .post-text h4, .single-img-30-3 .ftc-image-content p:last-child, .single-img-30-1 .ftc-image-content p, .single-img-30-2 .ftc-image-caption p:last-child, .element-footer-mid-news .title label, .element-home-blog .blog-template-elementor .inner-wrap .post-text h4, .ftc-element-image .button-banner .single-image-button, .ftc-element-testimonial.style_3 .testimonial-content h4.name, .ftc-elements-blogs.style_5 .inner-wrap .post-text h4, .bn1-h34-line1, .bn1-h34-line2, .bn1-h34-line3, .bn-row1-h34, .bn-row1-h34-3, .bn-h34-tit, .bn-h34-tit-2, .title-about-h34 h2, .tx-ft-h34, .tx-bot-h35, .sub-h35 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .header-layout31 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link .link_text, .ftc-product-categories.style_3 .ftc-categories .item-desciption .title, .cate-right-h36 .ftc-image-caption p, .ftc_products_slider.style_4 .woocommerce .product .item-description .price .amount, .title-about-h34 .elementor-heading-title, .ft-h34 .ft-h32 .elementor-heading-title, .ftc_products_slider.style_5 .product .item-description .price .amount, .title-h40 .elementor-heading-title, .ftc_products_slider.style_11 .woocommerce .products .product .item-description .price span, .tx-bot-h40, .ftc_products_slider.style_12 .woocommerce .products .product .item-description .price span, .ftc_products_slider.style_12 .woocommerce .products .product .item-description .product_title:hover a, .ft-tx-h41, .tx2-h41, .tx1-sale-h41, .tx2-sale-h41, .button1-h42 .elementor-button-text, .ftc_products_slider.style_13 .woocommerce .product .conditions-box span, .bn1-h44 .ftc-image-caption, .blogs-slider.style_3 .inner-wrap .post-text h4, .pr-h45 .ftc_products_slider.style_15 .product .item-description .price, .tx-bn1-h46, .tx2-bn1-h46, .bn2-h46 .ftc-element-image .ftc-image-content p, .blogs-slider.style_2 .inner-wrap .post-text h4, .tx1-bn1-h47, .tx-time-h47, .blogs-slider.style_4 .inner-wrap .post-text h4, .wpcf7 .contact-h47 p .wpcf7-submit, .tx-bot-h47, .tag-h48 > .elementor-widget-container, .bn2-h49 .ftc-element-image .ftc-image-content p.tx2-bn2-h49, .title-h45 .elementor-heading-title, .tx1-img-pr-h49, .tx2-img-pr-h49, .home48.tp-bullets .tp-bullet:before, .tx2-bn-h45, .title-ft-h40 .elementor-heading-title, .header-layout37.header-layout34 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link *, .pr-h43 .ftc_products_slider.style_12 .woocommerce .products .product .item-description .price > span, .testi-h47 .title-testi-slider h2 p, .ftc-product-tabs.style_7 .product .item-description .price .amount, .bn-full-h48 .tx1-bn-h48, .bn1-h49 .ftc-element-image .ftc-image-content p.tx-bn1-h49, .bn-pr-h48 .ftc-image-content h3, p.tx1-bn-h50, p.tx2-bn-h50, .ftc_products_slider.style_18 .product .short-description, .ftc_products_slider.style_18 .product .item-description .meta_info .add-to-cart span, .ftc_products_slider.style_18 .product .item-description .meta_info .add-to-cart a.added_to_cart, .ftc_products_slider.style_18 .product .item-description .price .amount, .ftc-element-testimonial.style_4 .testimonial-content .name, .sub2-h50 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .ftc_products_slider.style_19 .woocommerce .product .item-description .price .amount, .tx-bn1-h52, .tx-bn2-h52, .tx2-bn2-h52, .ftc-product-tabs-grid.style_2 .tabs-content-wrapper .product .item-description .price .amount, .tx-bn-h53, .tx3-bn-h53, .tx4-bn1-h52, .tag-h54 > .elementor-widget-container, .tx6-bn-h53 span, .sub-h51 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .ftc_desciption_tab a, .woocommerce #review_form #respond .form-submit input, .woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-destination, .ftc-off-canvas-cart .woocommerce.widget_shopping_cart .total strong {
+    font-family: Montserrat;
+}
+body {
+    line-height: 24px;
+}}
+@media screen and (min-width: 48em){
+body, button, input, select, textarea {
+    font-size: 16px;
+    line-height: 1.5;
+}}
+@media screen and (min-width: 30em){
+body, button, input, select, textarea {
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+body, button, input, select, textarea, .woocommerce .widget_price_filter .price_slider_amount {
+    color: #444;
+    font-family: "Montserrat";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.66;
+}
+body {
+    --extendify--spacing--large: var(--wp--custom--spacing--large,clamp(2em,8vw,8em) );
+    --wp--preset--font-size--ext-small: 1rem;
+    --wp--preset--font-size--ext-medium: 1.125rem;
+    --wp--preset--font-size--ext-large: clamp(1.65rem,3.5vw,2.15rem);
+    --wp--preset--font-size--ext-x-large: clamp(3rem,6vw,4.75rem);
+    --wp--preset--font-size--ext-xx-large: clamp(3.25rem,7.5vw,5.75rem);
+    --wp--preset--color--black: #000;
+    --wp--preset--color--white: #fff;
+}
+body {
+    --wp--preset--color--black: #000000;
+    --wp--preset--color--cyan-bluish-gray: #abb8c3;
+    --wp--preset--color--white: #ffffff;
+    --wp--preset--color--pale-pink: #f78da7;
+    --wp--preset--color--vivid-red: #cf2e2e;
+    --wp--preset--color--luminous-vivid-orange: #ff6900;
+    --wp--preset--color--luminous-vivid-amber: #fcb900;
+    --wp--preset--color--light-green-cyan: #7bdcb5;
+    --wp--preset--color--vivid-green-cyan: #00d084;
+    --wp--preset--color--pale-cyan-blue: #8ed1fc;
+    --wp--preset--color--vivid-cyan-blue: #0693e3;
+    --wp--preset--color--vivid-purple: #9b51e0;
+    --wp--preset--color--strong-magenta: #a156b4;
+    --wp--preset--color--light-grayish-magenta: #d0a5db;
+    --wp--preset--color--very-light-gray: #eee;
+    --wp--preset--color--very-dark-gray: #444;
+    --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
+    --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
+    --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);
+    --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);
+    --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);
+    --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+    --wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
+    --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);
+    --wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);
+    --wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);
+    --wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);
+    --wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);
+    --wp--preset--duotone--dark-grayscale: url(#wp-duotone-dark-grayscale);
+    --wp--preset--duotone--grayscale: url(#wp-duotone-grayscale);
+    --wp--preset--duotone--purple-yellow: url(#wp-duotone-purple-yellow);
+    --wp--preset--duotone--blue-red: url(#wp-duotone-blue-red);
+    --wp--preset--duotone--midnight: url(#wp-duotone-midnight);
+    --wp--preset--duotone--magenta-yellow: url(#wp-duotone-magenta-yellow);
+    --wp--preset--duotone--purple-green: url(#wp-duotone-purple-green);
+    --wp--preset--duotone--blue-orange: url(#wp-duotone-blue-orange);
+    --wp--preset--font-size--small: 12px;
+    --wp--preset--font-size--medium: 20px;
+    --wp--preset--font-size--large: 36px;
+    --wp--preset--font-size--x-large: 42px;
+    --wp--preset--font-size--normal: 14px;
+    --wp--preset--font-size--huge: 48px;
+}
+:root {
+    --page-title-display: block;
+}
+:root {
+    --woocommerce: #a46497;
+    --wc-green: #7ad03a;
+    --wc-red: #a00;
+    --wc-orange: #ffba00;
+    --wc-blue: #2ea2cc;
+    --wc-primary: #a46497;
+    --wc-primary-text: white;
+    --wc-secondary: #ebe9eb;
+    --wc-secondary-text: #515151;
+    --wc-highlight: #77a464;
+    --wc-highligh-text: white;
+    --wc-content-bg: #fff;
+    --wc-subtext: #767676;
+}
+:root {
+    --woocommerce: #a46497;
+    --wc-green: #7ad03a;
+    --wc-red: #a00;
+    --wc-orange: #ffba00;
+    --wc-blue: #2ea2cc;
+    --wc-primary: #a46497;
+    --wc-primary-text: white;
+    --wc-secondary: #ebe9eb;
+    --wc-secondary-text: #515151;
+    --wc-highlight: #77a464;
+    --wc-highligh-text: white;
+    --wc-content-bg: #fff;
+    --wc-subtext: #767676;
+}
+:root {
+    --yith-wcan-filters_colors_titles: #434343;
+    --yith-wcan-filters_colors_background: #FFFFFF;
+    --yith-wcan-filters_colors_accent: #A7144C;
+    --yith-wcan-filters_colors_accent_r: 167;
+    --yith-wcan-filters_colors_accent_g: 20;
+    --yith-wcan-filters_colors_accent_b: 76;
+    --yith-wcan-color_swatches_border_radius: 100%;
+    --yith-wcan-color_swatches_size: 30px;
+    --yith-wcan-labels_style_background: #FFFFFF;
+    --yith-wcan-labels_style_background_hover: #A7144C;
+    --yith-wcan-labels_style_background_active: #A7144C;
+    --yith-wcan-labels_style_text: #434343;
+    --yith-wcan-labels_style_text_hover: #FFFFFF;
+    --yith-wcan-labels_style_text_active: #FFFFFF;
+    --yith-wcan-anchors_style_text: #434343;
+    --yith-wcan-anchors_style_text_hover: #A7144C;
+    --yith-wcan-anchors_style_text_active: #A7144C;
+}
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}}
+
+
+
+
+@media (min-width: 992px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 970px;
+}}
+
+@media (min-width: 768px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 750px;
+}
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ftc-elements-is-mobile .elementor-section {
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: 100%;
+    -webkit-background-attachment: scroll;
+    -webkit-background-position: center center;
+    -webkit-background-size: 100%;
+}}
+@media only screen and (min-width: 992px){
+.element-home-blog, .feature-product.element-home-product {
+    padding: 0!important;
+}
+.elementor-section {
+    position: relative;
+}
+.elementor-element {
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: var(--flex-direction);
+    flex-direction: var(--flex-direction);
+    -ms-flex-wrap: var(--flex-wrap);
+    flex-wrap: var(--flex-wrap);
+    -webkit-box-pack: var(--justify-content);
+    -ms-flex-pack: var(--justify-content);
+    justify-content: var(--justify-content);
+    -webkit-box-align: var(--align-items);
+    -ms-flex-align: var(--align-items);
+    align-items: var(--align-items);
+    -ms-flex-line-pack: var(--align-content);
+    align-content: var(--align-content);
+    gap: var(--gap);
+    -ms-flex-preferred-size: var(--flex-basis);
+    flex-basis: var(--flex-basis);
+    -webkit-box-flex: var(--flex-grow);
+    -ms-flex-positive: var(--flex-grow);
+    flex-grow: var(--flex-grow);
+    -ms-flex-negative: var(--flex-shrink);
+    flex-shrink: var(--flex-shrink);
+    -webkit-box-ordinal-group: var(--order);
+    -ms-flex-order: var(--order);
+    order: var(--order);
+    -ms-flex-item-align: var(--align-self);
+    align-self: var(--align-self);
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+.elementor {
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
+.elementor-kit-9036 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-582b44d9: #4054B2;
+    --e-global-color-212ff461: #23A455;
+    --e-global-color-17cea6c3: #000;
+    --e-global-color-24c92064: #FFF;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+}
+body {
+    font-size: 14px;
+    line-height: 2;
+    color: #444;
+    background-color: #fff;
+}
+body, .ftc-shoppping-cart a.ftc_cart:hover, .woocommerce a.remove, body.wpb-js-composer .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab, .woocommerce .products .star-rating.no-rating, .woocommerce-page .products .star-rating.no-rating, .star-rating.no-rating:before, .pp_woocommerce .star-rating.no-rating:before, .woocommerce .star-rating.no-rating:before, .woocommerce-page .star-rating.no-rating:before, .woocommerce .product .images .group-button-product > div a, .woocommerce .product .images .group-button-product > a, .vc_progress_bar .vc_single_bar .vc_label, .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline-custom, .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline-custom, .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline-custom, .style1 .ftc-countdown .counter-wrapper > div .countdown-meta, .style2 .ftc-countdown .counter-wrapper > div .countdown-meta, .style3 .ftc-countdown .counter-wrapper > div .countdown-meta, .style4 .ftc-countdown .counter-wrapper > div .number-wrapper .number, .style4 .ftc-countdown .counter-wrapper > div .countdown-meta, body table.compare-list tr.remove td > a .remove:before, .woocommerce-page .products.list .product h3.product-name a, .col-left-27-cate .style_1.ftc-product-categories .item-desciption .title, .ftc-product-tabs.style_4 .woocommerce .product .item-description .price .woocommerce-Price-amount, .ftc-element-image .ftc-image-content.style_8 .left-content .left-sale, .ftc-element-image .ftc-image-content .left-content .left-sale, .header-layout24 .header-ftc:not(.header-layout2) .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link *, .ftc_products_deal_slider.style_1 .woocommerce .products .product .item-description .product_title a, .ftc_products_deal_slider.style_1 .woocommerce .products .product .price .amount, .form-item-29 label, .cop-left-29, .cop-left-29 a, .ftc_products_slider.style_11 .woocommerce .products .product .item-description .price .amount, .tx1-sale-h41, .tx2-sale-h41, .color-text-h53 {
+    color: #444444;
+}
+body, .site-footer, .woocommerce div.product form.cart .group_table td.label, .woocommerce .product .conditions-box span, .item-description .meta_info .yith-wcwl-add-to-wishlist a, .item-description .meta_info .compare, .info-company li i, .social-icons .ftc-tooltip:before, .tagcloud a, .details_thumbnails .owl-nav > div:before, div.product .summary .yith-wcwl-add-to-wishlist a:before, .pp_woocommerce div.product .summary .compare:before, .woocommerce div.product .summary .compare:before, .woocommerce-page div.product .summary .compare:before, .woocommerce #content div.product .summary .compare:before, .woocommerce-page #content div.product .summary .compare:before, .woocommerce div.product form.cart .variations label, .woocommerce-page div.product form.cart .variations label, .pp_woocommerce div.product form.cart .variations label, blockquote, .ftc-number h3.ftc_number_meta, .woocommerce .widget_price_filter .price_slider_amount, .wishlist-empty, .woocommerce div.product form.cart .button, .woocommerce table.wishlist_table {
+    font-size: 14px;
+}
+html, body, .widget-title.heading-title, .widget-title.product_title, .newletter_sub_input .button.button-secondary, .our-newletter .mc4wp-form-fields p, .trending-product .wpb_wrapper h1, #pp_full_res .pp_inline .price span.amount, .woocommerce div.product .summary .amount, .woocommerce div.product .summary h1.product_title.entry-title, .ftc-feature .ftc_feature_content h3, div.product div.summary form.cart .group_table td .quantity-title, .single-post article .post-info .entry-title, .deal-today h2, .woocommerce div.product .product_title, .section-welcome p, .h7-freeship .ftc-feature .ftc_feature_content p, .title-h7 p, .woocommerce .product-version-2 .products .product .item-description .product-categories, .woocommerce .featured-deals .product .item-description .product-categories, .featured-deals .counter-wrapper > div .number-wrapper .number, .ftc-sb-testimonial_v2 .testimonial-content .byline, .ftc-sb-testimonial_v2 .testimonial-content .info, .ftc-shortcode-v2 .post-img .date-time >div, .ftc-shortcode-v2 .blogs article h3.product_title, body .ftc-shortcode-v2 .blogs .entry-content p, .ftc-shortcode-v2 .blogs .tab-blog, .color-map .wpb_wrapper >p, .footer-middle-v2 p, .row-bottom-v2 .copy-com, .header-layout5 .ftc-search-product .ftc-search, .h8-banner p, .h8-banner .ftc-sb-button a, .jewe-title h2, .tithome14, .slideh13 .ring, .mont, .hotspot-content-title a, .single-portfolio .info-content h2.entry-title, .ftc-portfolio-wrapper .portfolio-inner .item .thumbnail .figcaption h3 a, .single-portfolio .meta-content .portfolio-info p, .dark_layout .blogs article h3.product_title a, .pp_woocommerce div.product .product_title a, .ftc-shortcode-v3 .entry-header, .breadcrumb-v1, .single-post .blogs article h3.product_title a, .single-post article .blockquote-meta, h3.product_title, .single-post #comments h2.comments-title, .single-post #comments .total-comment .name, .single-post blockquote .author, .wpb-js-composer .vc_tta.vc_general.faq-02 .vc_tta-panel-heading span.vc_tta-title-text, .faq-03row .wpcf7 input[type^="submit"], .light-v1.ftc-countdown .counter-wrapper > div .number-wrapper .number, .coming02 .mc4wp-form-fields input[type='submit'], .light-v2.ftc-countdown .counter-wrapper > div .number-wrapper .number, .widget-container.ftc-blogs-widget ul.post_list_widget li a.post-title, div.berocket_single_filter_widget h3.widget-title, .breadcrumb-v3 .ftc-breadcrumb-title h1, .tab-home21 h2, div.products-home21 .product .item-description .meta_info a, .woocommerce .products-home21 .load-more-wrapper .button, .feature-home21 .feature-content .ftc_feature_content p, .text-p1_21 h3, .text-p1_21 .ftc-sb-button a.ftc-button, .img-left-h21_3 .wpb_text_column, .text-p3_21 .ftc-sb-button a.ftc-button, .insta-h21 h2.widgettitle, .footer-middle21 h3, .text-home20 h3, .text-home20 h2, .title-header-h21 h2, .footer-center-h20 h3, .footer-center-h20 h2.widgettitle, .text-home22 h3, .text2_home22 h3, .text2_home22 .ftc-sb-button a.ftc-button, .blog-home22 .header-title .product_title, .blog-home22 .blogs .post-info, .blog-home22 .blogs .post-info p, .text2_home22 p, .elementor-widget-text-editor h1, h4.footer-title-mid-23, h2.logo-text-24, .heading_blog1 h1, .elementor-element .footer-mid-23 h3, .text-gl-home24 p, .text-gl-2-home24 .elementor-text-editor h2, .text-gl-2-home24 .elementor-text-editor span a, .elementor-element .footer-title-mid-24, .header-layout21 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link .link_text, .form-item-29 label, .author span:first-child, .ftc-image-content.style_2 .text-img-30 h1, .ftc-image-content.style_2 .text-left-img-30 h4, .ftc-image-content.style_2 .text-left-img-2-30 h1, .text-single-30 h1, .form-item-30 label, .big-product .ftc-product-tabs .style_2 .woocommerce .product .item-description h3.product_title, .big-product .ftc-product-tabs .style_2 .woocommerce .product .price .amount, .pro-3 .ftc-product-tabs .style_2 .woocommerce .product .item-description h3.product_title, .ftc-blogs-slider .style_1 .post-text h4, .single-img-30-3 .ftc-image-content p:last-child, .single-img-30-1 .ftc-image-content p, .single-img-30-2 .ftc-image-caption p:last-child, .element-footer-mid-news .title label, .element-home-blog .blog-template-elementor .inner-wrap .post-text h4, .ftc-element-image .button-banner .single-image-button, .ftc-element-testimonial.style_3 .testimonial-content h4.name, .ftc-elements-blogs.style_5 .inner-wrap .post-text h4, .bn1-h34-line1, .bn1-h34-line2, .bn1-h34-line3, .bn-row1-h34, .bn-row1-h34-3, .bn-h34-tit, .bn-h34-tit-2, .title-about-h34 h2, .tx-ft-h34, .tx-bot-h35, .sub-h35 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .header-layout31 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link .link_text, .ftc-product-categories.style_3 .ftc-categories .item-desciption .title, .cate-right-h36 .ftc-image-caption p, .ftc_products_slider.style_4 .woocommerce .product .item-description .price .amount, .title-about-h34 .elementor-heading-title, .ft-h34 .ft-h32 .elementor-heading-title, .ftc_products_slider.style_5 .product .item-description .price .amount, .title-h40 .elementor-heading-title, .ftc_products_slider.style_11 .woocommerce .products .product .item-description .price span, .tx-bot-h40, .ftc_products_slider.style_12 .woocommerce .products .product .item-description .price span, .ftc_products_slider.style_12 .woocommerce .products .product .item-description .product_title:hover a, .ft-tx-h41, .tx2-h41, .tx1-sale-h41, .tx2-sale-h41, .button1-h42 .elementor-button-text, .ftc_products_slider.style_13 .woocommerce .product .conditions-box span, .bn1-h44 .ftc-image-caption, .blogs-slider.style_3 .inner-wrap .post-text h4, .pr-h45 .ftc_products_slider.style_15 .product .item-description .price, .tx-bn1-h46, .tx2-bn1-h46, .bn2-h46 .ftc-element-image .ftc-image-content p, .blogs-slider.style_2 .inner-wrap .post-text h4, .tx1-bn1-h47, .tx-time-h47, .blogs-slider.style_4 .inner-wrap .post-text h4, .wpcf7 .contact-h47 p .wpcf7-submit, .tx-bot-h47, .tag-h48 > .elementor-widget-container, .bn2-h49 .ftc-element-image .ftc-image-content p.tx2-bn2-h49, .title-h45 .elementor-heading-title, .tx1-img-pr-h49, .tx2-img-pr-h49, .home48.tp-bullets .tp-bullet:before, .tx2-bn-h45, .title-ft-h40 .elementor-heading-title, .header-layout37.header-layout34 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link *, .pr-h43 .ftc_products_slider.style_12 .woocommerce .products .product .item-description .price > span, .testi-h47 .title-testi-slider h2 p, .ftc-product-tabs.style_7 .product .item-description .price .amount, .bn-full-h48 .tx1-bn-h48, .bn1-h49 .ftc-element-image .ftc-image-content p.tx-bn1-h49, .bn-pr-h48 .ftc-image-content h3, p.tx1-bn-h50, p.tx2-bn-h50, .ftc_products_slider.style_18 .product .short-description, .ftc_products_slider.style_18 .product .item-description .meta_info .add-to-cart span, .ftc_products_slider.style_18 .product .item-description .meta_info .add-to-cart a.added_to_cart, .ftc_products_slider.style_18 .product .item-description .price .amount, .ftc-element-testimonial.style_4 .testimonial-content .name, .sub2-h50 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .ftc_products_slider.style_19 .woocommerce .product .item-description .price .amount, .tx-bn1-h52, .tx-bn2-h52, .tx2-bn2-h52, .ftc-product-tabs-grid.style_2 .tabs-content-wrapper .product .item-description .price .amount, .tx-bn-h53, .tx3-bn-h53, .tx4-bn1-h52, .tag-h54 > .elementor-widget-container, .tx6-bn-h53 span, .sub-h51 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .ftc_desciption_tab a, .woocommerce #review_form #respond .form-submit input, .woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-destination, .ftc-off-canvas-cart .woocommerce.widget_shopping_cart .total strong {
+    font-family: Montserrat;
+}
+body {
+    line-height: 24px;
+}}
+@media screen and (min-width: 48em){
+body, button, input, select, textarea {
+    font-size: 16px;
+    line-height: 1.5;
+}}
+@media screen and (min-width: 30em){
+body, button, input, select, textarea {
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+body, button, input, select, textarea, .woocommerce .widget_price_filter .price_slider_amount {
+    color: #444;
+    font-family: "Montserrat";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.66;
+}
+body {
+    --extendify--spacing--large: var(--wp--custom--spacing--large,clamp(2em,8vw,8em) );
+    --wp--preset--font-size--ext-small: 1rem;
+    --wp--preset--font-size--ext-medium: 1.125rem;
+    --wp--preset--font-size--ext-large: clamp(1.65rem,3.5vw,2.15rem);
+    --wp--preset--font-size--ext-x-large: clamp(3rem,6vw,4.75rem);
+    --wp--preset--font-size--ext-xx-large: clamp(3.25rem,7.5vw,5.75rem);
+    --wp--preset--color--black: #000;
+    --wp--preset--color--white: #fff;
+}
+body {
+    --wp--preset--color--black: #000000;
+    --wp--preset--color--cyan-bluish-gray: #abb8c3;
+    --wp--preset--color--white: #ffffff;
+    --wp--preset--color--pale-pink: #f78da7;
+    --wp--preset--color--vivid-red: #cf2e2e;
+    --wp--preset--color--luminous-vivid-orange: #ff6900;
+    --wp--preset--color--luminous-vivid-amber: #fcb900;
+    --wp--preset--color--light-green-cyan: #7bdcb5;
+    --wp--preset--color--vivid-green-cyan: #00d084;
+    --wp--preset--color--pale-cyan-blue: #8ed1fc;
+    --wp--preset--color--vivid-cyan-blue: #0693e3;
+    --wp--preset--color--vivid-purple: #9b51e0;
+    --wp--preset--color--strong-magenta: #a156b4;
+    --wp--preset--color--light-grayish-magenta: #d0a5db;
+    --wp--preset--color--very-light-gray: #eee;
+    --wp--preset--color--very-dark-gray: #444;
+    --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
+    --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
+    --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);
+    --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);
+    --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);
+    --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+    --wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
+    --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);
+    --wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);
+    --wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);
+    --wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);
+    --wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);
+    --wp--preset--duotone--dark-grayscale: url(#wp-duotone-dark-grayscale);
+    --wp--preset--duotone--grayscale: url(#wp-duotone-grayscale);
+    --wp--preset--duotone--purple-yellow: url(#wp-duotone-purple-yellow);
+    --wp--preset--duotone--blue-red: url(#wp-duotone-blue-red);
+    --wp--preset--duotone--midnight: url(#wp-duotone-midnight);
+    --wp--preset--duotone--magenta-yellow: url(#wp-duotone-magenta-yellow);
+    --wp--preset--duotone--purple-green: url(#wp-duotone-purple-green);
+    --wp--preset--duotone--blue-orange: url(#wp-duotone-blue-orange);
+    --wp--preset--font-size--small: 12px;
+    --wp--preset--font-size--medium: 20px;
+    --wp--preset--font-size--large: 36px;
+    --wp--preset--font-size--x-large: 42px;
+    --wp--preset--font-size--normal: 14px;
+    --wp--preset--font-size--huge: 48px;
+}
+:root {
+    --page-title-display: block;
+}
+:root {
+    --woocommerce: #a46497;
+    --wc-green: #7ad03a;
+    --wc-red: #a00;
+    --wc-orange: #ffba00;
+    --wc-blue: #2ea2cc;
+    --wc-primary: #a46497;
+    --wc-primary-text: white;
+    --wc-secondary: #ebe9eb;
+    --wc-secondary-text: #515151;
+    --wc-highlight: #77a464;
+    --wc-highligh-text: white;
+    --wc-content-bg: #fff;
+    --wc-subtext: #767676;
+}
+:root {
+    --woocommerce: #a46497;
+    --wc-green: #7ad03a;
+    --wc-red: #a00;
+    --wc-orange: #ffba00;
+    --wc-blue: #2ea2cc;
+    --wc-primary: #a46497;
+    --wc-primary-text: white;
+    --wc-secondary: #ebe9eb;
+    --wc-secondary-text: #515151;
+    --wc-highlight: #77a464;
+    --wc-highligh-text: white;
+    --wc-content-bg: #fff;
+    --wc-subtext: #767676;
+}
+:root {
+    --yith-wcan-filters_colors_titles: #434343;
+    --yith-wcan-filters_colors_background: #FFFFFF;
+    --yith-wcan-filters_colors_accent: #A7144C;
+    --yith-wcan-filters_colors_accent_r: 167;
+    --yith-wcan-filters_colors_accent_g: 20;
+    --yith-wcan-filters_colors_accent_b: 76;
+    --yith-wcan-color_swatches_border_radius: 100%;
+    --yith-wcan-color_swatches_size: 30px;
+    --yith-wcan-labels_style_background: #FFFFFF;
+    --yith-wcan-labels_style_background_hover: #A7144C;
+    --yith-wcan-labels_style_background_active: #A7144C;
+    --yith-wcan-labels_style_text: #434343;
+    --yith-wcan-labels_style_text_hover: #FFFFFF;
+    --yith-wcan-labels_style_text_active: #FFFFFF;
+    --yith-wcan-anchors_style_text: #434343;
+    --yith-wcan-anchors_style_text_hover: #A7144C;
+    --yith-wcan-anchors_style_text_active: #A7144C;
+}
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}}
+
+
+
+
+
+
+
+@media (min-width: 992px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 970px;
+}}
+@media (min-width: 768px){
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    width: 750px;
+}
+.container-full .elementor-section.elementor-section-boxed:not(.elementor-inner-section) {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ftc-elements-is-mobile .elementor-section {
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: 100%;
+    -webkit-background-attachment: scroll;
+    -webkit-background-position: center center;
+    -webkit-background-size: 100%;
+}}
+@media only screen and (min-width: 992px){
+.element-home-blog, .feature-product.element-home-product {
+    padding: 0!important;
+}
+.elementor-section {
+    position: relative;
+}
+.elementor-element {
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: var(--flex-direction);
+    flex-direction: var(--flex-direction);
+    -ms-flex-wrap: var(--flex-wrap);
+    flex-wrap: var(--flex-wrap);
+    -webkit-box-pack: var(--justify-content);
+    -ms-flex-pack: var(--justify-content);
+    justify-content: var(--justify-content);
+    -webkit-box-align: var(--align-items);
+    -ms-flex-align: var(--align-items);
+    align-items: var(--align-items);
+    -ms-flex-line-pack: var(--align-content);
+    align-content: var(--align-content);
+    gap: var(--gap);
+    -ms-flex-preferred-size: var(--flex-basis);
+    flex-basis: var(--flex-basis);
+    -webkit-box-flex: var(--flex-grow);
+    -ms-flex-positive: var(--flex-grow);
+    flex-grow: var(--flex-grow);
+    -ms-flex-negative: var(--flex-shrink);
+    flex-shrink: var(--flex-shrink);
+    -webkit-box-ordinal-group: var(--order);
+    -ms-flex-order: var(--order);
+    order: var(--order);
+    -ms-flex-item-align: var(--align-self);
+    align-self: var(--align-self);
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+.elementor {
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
+.elementor-kit-9036 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-582b44d9: #4054B2;
+    --e-global-color-212ff461: #23A455;
+    --e-global-color-17cea6c3: #000;
+    --e-global-color-24c92064: #FFF;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+}
+body {
+    font-size: 14px;
+    line-height: 2;
+    color: #444;
+    background-color: #fff;
+}
+body, .ftc-shoppping-cart a.ftc_cart:hover, .woocommerce a.remove, body.wpb-js-composer .vc_general.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-tab, .woocommerce .products .star-rating.no-rating, .woocommerce-page .products .star-rating.no-rating, .star-rating.no-rating:before, .pp_woocommerce .star-rating.no-rating:before, .woocommerce .star-rating.no-rating:before, .woocommerce-page .star-rating.no-rating:before, .woocommerce .product .images .group-button-product > div a, .woocommerce .product .images .group-button-product > a, .vc_progress_bar .vc_single_bar .vc_label, .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-sm.vc_btn3-style-outline-custom, .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-md.vc_btn3-style-outline-custom, .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline, .vc_btn3.vc_btn3-size-lg.vc_btn3-style-outline-custom, .style1 .ftc-countdown .counter-wrapper > div .countdown-meta, .style2 .ftc-countdown .counter-wrapper > div .countdown-meta, .style3 .ftc-countdown .counter-wrapper > div .countdown-meta, .style4 .ftc-countdown .counter-wrapper > div .number-wrapper .number, .style4 .ftc-countdown .counter-wrapper > div .countdown-meta, body table.compare-list tr.remove td > a .remove:before, .woocommerce-page .products.list .product h3.product-name a, .col-left-27-cate .style_1.ftc-product-categories .item-desciption .title, .ftc-product-tabs.style_4 .woocommerce .product .item-description .price .woocommerce-Price-amount, .ftc-element-image .ftc-image-content.style_8 .left-content .left-sale, .ftc-element-image .ftc-image-content .left-content .left-sale, .header-layout24 .header-ftc:not(.header-layout2) .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link *, .ftc_products_deal_slider.style_1 .woocommerce .products .product .item-description .product_title a, .ftc_products_deal_slider.style_1 .woocommerce .products .product .price .amount, .form-item-29 label, .cop-left-29, .cop-left-29 a, .ftc_products_slider.style_11 .woocommerce .products .product .item-description .price .amount, .tx1-sale-h41, .tx2-sale-h41, .color-text-h53 {
+    color: #444444;
+}
+body, .site-footer, .woocommerce div.product form.cart .group_table td.label, .woocommerce .product .conditions-box span, .item-description .meta_info .yith-wcwl-add-to-wishlist a, .item-description .meta_info .compare, .info-company li i, .social-icons .ftc-tooltip:before, .tagcloud a, .details_thumbnails .owl-nav > div:before, div.product .summary .yith-wcwl-add-to-wishlist a:before, .pp_woocommerce div.product .summary .compare:before, .woocommerce div.product .summary .compare:before, .woocommerce-page div.product .summary .compare:before, .woocommerce #content div.product .summary .compare:before, .woocommerce-page #content div.product .summary .compare:before, .woocommerce div.product form.cart .variations label, .woocommerce-page div.product form.cart .variations label, .pp_woocommerce div.product form.cart .variations label, blockquote, .ftc-number h3.ftc_number_meta, .woocommerce .widget_price_filter .price_slider_amount, .wishlist-empty, .woocommerce div.product form.cart .button, .woocommerce table.wishlist_table {
+    font-size: 14px;
+}
+html, body, .widget-title.heading-title, .widget-title.product_title, .newletter_sub_input .button.button-secondary, .our-newletter .mc4wp-form-fields p, .trending-product .wpb_wrapper h1, #pp_full_res .pp_inline .price span.amount, .woocommerce div.product .summary .amount, .woocommerce div.product .summary h1.product_title.entry-title, .ftc-feature .ftc_feature_content h3, div.product div.summary form.cart .group_table td .quantity-title, .single-post article .post-info .entry-title, .deal-today h2, .woocommerce div.product .product_title, .section-welcome p, .h7-freeship .ftc-feature .ftc_feature_content p, .title-h7 p, .woocommerce .product-version-2 .products .product .item-description .product-categories, .woocommerce .featured-deals .product .item-description .product-categories, .featured-deals .counter-wrapper > div .number-wrapper .number, .ftc-sb-testimonial_v2 .testimonial-content .byline, .ftc-sb-testimonial_v2 .testimonial-content .info, .ftc-shortcode-v2 .post-img .date-time >div, .ftc-shortcode-v2 .blogs article h3.product_title, body .ftc-shortcode-v2 .blogs .entry-content p, .ftc-shortcode-v2 .blogs .tab-blog, .color-map .wpb_wrapper >p, .footer-middle-v2 p, .row-bottom-v2 .copy-com, .header-layout5 .ftc-search-product .ftc-search, .h8-banner p, .h8-banner .ftc-sb-button a, .jewe-title h2, .tithome14, .slideh13 .ring, .mont, .hotspot-content-title a, .single-portfolio .info-content h2.entry-title, .ftc-portfolio-wrapper .portfolio-inner .item .thumbnail .figcaption h3 a, .single-portfolio .meta-content .portfolio-info p, .dark_layout .blogs article h3.product_title a, .pp_woocommerce div.product .product_title a, .ftc-shortcode-v3 .entry-header, .breadcrumb-v1, .single-post .blogs article h3.product_title a, .single-post article .blockquote-meta, h3.product_title, .single-post #comments h2.comments-title, .single-post #comments .total-comment .name, .single-post blockquote .author, .wpb-js-composer .vc_tta.vc_general.faq-02 .vc_tta-panel-heading span.vc_tta-title-text, .faq-03row .wpcf7 input[type^="submit"], .light-v1.ftc-countdown .counter-wrapper > div .number-wrapper .number, .coming02 .mc4wp-form-fields input[type='submit'], .light-v2.ftc-countdown .counter-wrapper > div .number-wrapper .number, .widget-container.ftc-blogs-widget ul.post_list_widget li a.post-title, div.berocket_single_filter_widget h3.widget-title, .breadcrumb-v3 .ftc-breadcrumb-title h1, .tab-home21 h2, div.products-home21 .product .item-description .meta_info a, .woocommerce .products-home21 .load-more-wrapper .button, .feature-home21 .feature-content .ftc_feature_content p, .text-p1_21 h3, .text-p1_21 .ftc-sb-button a.ftc-button, .img-left-h21_3 .wpb_text_column, .text-p3_21 .ftc-sb-button a.ftc-button, .insta-h21 h2.widgettitle, .footer-middle21 h3, .text-home20 h3, .text-home20 h2, .title-header-h21 h2, .footer-center-h20 h3, .footer-center-h20 h2.widgettitle, .text-home22 h3, .text2_home22 h3, .text2_home22 .ftc-sb-button a.ftc-button, .blog-home22 .header-title .product_title, .blog-home22 .blogs .post-info, .blog-home22 .blogs .post-info p, .text2_home22 p, .elementor-widget-text-editor h1, h4.footer-title-mid-23, h2.logo-text-24, .heading_blog1 h1, .elementor-element .footer-mid-23 h3, .text-gl-home24 p, .text-gl-2-home24 .elementor-text-editor h2, .text-gl-2-home24 .elementor-text-editor span a, .elementor-element .footer-title-mid-24, .header-layout21 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link .link_text, .form-item-29 label, .author span:first-child, .ftc-image-content.style_2 .text-img-30 h1, .ftc-image-content.style_2 .text-left-img-30 h4, .ftc-image-content.style_2 .text-left-img-2-30 h1, .text-single-30 h1, .form-item-30 label, .big-product .ftc-product-tabs .style_2 .woocommerce .product .item-description h3.product_title, .big-product .ftc-product-tabs .style_2 .woocommerce .product .price .amount, .pro-3 .ftc-product-tabs .style_2 .woocommerce .product .item-description h3.product_title, .ftc-blogs-slider .style_1 .post-text h4, .single-img-30-3 .ftc-image-content p:last-child, .single-img-30-1 .ftc-image-content p, .single-img-30-2 .ftc-image-caption p:last-child, .element-footer-mid-news .title label, .element-home-blog .blog-template-elementor .inner-wrap .post-text h4, .ftc-element-image .button-banner .single-image-button, .ftc-element-testimonial.style_3 .testimonial-content h4.name, .ftc-elements-blogs.style_5 .inner-wrap .post-text h4, .bn1-h34-line1, .bn1-h34-line2, .bn1-h34-line3, .bn-row1-h34, .bn-row1-h34-3, .bn-h34-tit, .bn-h34-tit-2, .title-about-h34 h2, .tx-ft-h34, .tx-bot-h35, .sub-h35 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .header-layout31 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link .link_text, .ftc-product-categories.style_3 .ftc-categories .item-desciption .title, .cate-right-h36 .ftc-image-caption p, .ftc_products_slider.style_4 .woocommerce .product .item-description .price .amount, .title-about-h34 .elementor-heading-title, .ft-h34 .ft-h32 .elementor-heading-title, .ftc_products_slider.style_5 .product .item-description .price .amount, .title-h40 .elementor-heading-title, .ftc_products_slider.style_11 .woocommerce .products .product .item-description .price span, .tx-bot-h40, .ftc_products_slider.style_12 .woocommerce .products .product .item-description .price span, .ftc_products_slider.style_12 .woocommerce .products .product .item-description .product_title:hover a, .ft-tx-h41, .tx2-h41, .tx1-sale-h41, .tx2-sale-h41, .button1-h42 .elementor-button-text, .ftc_products_slider.style_13 .woocommerce .product .conditions-box span, .bn1-h44 .ftc-image-caption, .blogs-slider.style_3 .inner-wrap .post-text h4, .pr-h45 .ftc_products_slider.style_15 .product .item-description .price, .tx-bn1-h46, .tx2-bn1-h46, .bn2-h46 .ftc-element-image .ftc-image-content p, .blogs-slider.style_2 .inner-wrap .post-text h4, .tx1-bn1-h47, .tx-time-h47, .blogs-slider.style_4 .inner-wrap .post-text h4, .wpcf7 .contact-h47 p .wpcf7-submit, .tx-bot-h47, .tag-h48 > .elementor-widget-container, .bn2-h49 .ftc-element-image .ftc-image-content p.tx2-bn2-h49, .title-h45 .elementor-heading-title, .tx1-img-pr-h49, .tx2-img-pr-h49, .home48.tp-bullets .tp-bullet:before, .tx2-bn-h45, .title-ft-h40 .elementor-heading-title, .header-layout37.header-layout34 .mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link *, .pr-h43 .ftc_products_slider.style_12 .woocommerce .products .product .item-description .price > span, .testi-h47 .title-testi-slider h2 p, .ftc-product-tabs.style_7 .product .item-description .price .amount, .bn-full-h48 .tx1-bn-h48, .bn1-h49 .ftc-element-image .ftc-image-content p.tx-bn1-h49, .bn-pr-h48 .ftc-image-content h3, p.tx1-bn-h50, p.tx2-bn-h50, .ftc_products_slider.style_18 .product .short-description, .ftc_products_slider.style_18 .product .item-description .meta_info .add-to-cart span, .ftc_products_slider.style_18 .product .item-description .meta_info .add-to-cart a.added_to_cart, .ftc_products_slider.style_18 .product .item-description .price .amount, .ftc-element-testimonial.style_4 .testimonial-content .name, .sub2-h50 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .ftc_products_slider.style_19 .woocommerce .product .item-description .price .amount, .tx-bn1-h52, .tx-bn2-h52, .tx2-bn2-h52, .ftc-product-tabs-grid.style_2 .tabs-content-wrapper .product .item-description .price .amount, .tx-bn-h53, .tx3-bn-h53, .tx4-bn1-h52, .tag-h54 > .elementor-widget-container, .tx6-bn-h53 span, .sub-h51 .mc4wp-form .mc4wp-form-fields .sub input[type="submit"], .ftc_desciption_tab a, .woocommerce #review_form #respond .form-submit input, .woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-destination, .ftc-off-canvas-cart .woocommerce.widget_shopping_cart .total strong {
+    font-family: Montserrat;
+}
+body {
+    line-height: 24px;
+}}
+@media screen and (min-width: 48em){
+body, button, input, select, textarea {
+    font-size: 16px;
+    line-height: 1.5;
+}}
+@media screen and (min-width: 30em){
+body, button, input, select, textarea {
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+body, button, input, select, textarea, .woocommerce .widget_price_filter .price_slider_amount {
+    color: #444;
+    font-family: "Montserrat";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.66;
+}
+body {
+    --extendify--spacing--large: var(--wp--custom--spacing--large,clamp(2em,8vw,8em) );
+    --wp--preset--font-size--ext-small: 1rem;
+    --wp--preset--font-size--ext-medium: 1.125rem;
+    --wp--preset--font-size--ext-large: clamp(1.65rem,3.5vw,2.15rem);
+    --wp--preset--font-size--ext-x-large: clamp(3rem,6vw,4.75rem);
+    --wp--preset--font-size--ext-xx-large: clamp(3.25rem,7.5vw,5.75rem);
+    --wp--preset--color--black: #000;
+    --wp--preset--color--white: #fff;
+}
+body {
+    --wp--preset--color--black: #000000;
+    --wp--preset--color--cyan-bluish-gray: #abb8c3;
+    --wp--preset--color--white: #ffffff;
+    --wp--preset--color--pale-pink: #f78da7;
+    --wp--preset--color--vivid-red: #cf2e2e;
+    --wp--preset--color--luminous-vivid-orange: #ff6900;
+    --wp--preset--color--luminous-vivid-amber: #fcb900;
+    --wp--preset--color--light-green-cyan: #7bdcb5;
+    --wp--preset--color--vivid-green-cyan: #00d084;
+    --wp--preset--color--pale-cyan-blue: #8ed1fc;
+    --wp--preset--color--vivid-cyan-blue: #0693e3;
+    --wp--preset--color--vivid-purple: #9b51e0;
+    --wp--preset--color--strong-magenta: #a156b4;
+    --wp--preset--color--light-grayish-magenta: #d0a5db;
+    --wp--preset--color--very-light-gray: #eee;
+    --wp--preset--color--very-dark-gray: #444;
+    --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
+    --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
+    --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);
+    --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);
+    --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);
+    --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+    --wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
+    --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);
+    --wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);
+    --wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);
+    --wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);
+    --wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);
+    --wp--preset--duotone--dark-grayscale: url(#wp-duotone-dark-grayscale);
+    --wp--preset--duotone--grayscale: url(#wp-duotone-grayscale);
+    --wp--preset--duotone--purple-yellow: url(#wp-duotone-purple-yellow);
+    --wp--preset--duotone--blue-red: url(#wp-duotone-blue-red);
+    --wp--preset--duotone--midnight: url(#wp-duotone-midnight);
+    --wp--preset--duotone--magenta-yellow: url(#wp-duotone-magenta-yellow);
+    --wp--preset--duotone--purple-green: url(#wp-duotone-purple-green);
+    --wp--preset--duotone--blue-orange: url(#wp-duotone-blue-orange);
+    --wp--preset--font-size--small: 12px;
+    --wp--preset--font-size--medium: 20px;
+    --wp--preset--font-size--large: 36px;
+    --wp--preset--font-size--x-large: 42px;
+    --wp--preset--font-size--normal: 14px;
+    --wp--preset--font-size--huge: 48px;
+}
+:root {
+    --page-title-display: block;
+}
+:root {
+    --woocommerce: #a46497;
+    --wc-green: #7ad03a;
+    --wc-red: #a00;
+    --wc-orange: #ffba00;
+    --wc-blue: #2ea2cc;
+    --wc-primary: #a46497;
+    --wc-primary-text: white;
+    --wc-secondary: #ebe9eb;
+    --wc-secondary-text: #515151;
+    --wc-highlight: #77a464;
+    --wc-highligh-text: white;
+    --wc-content-bg: #fff;
+    --wc-subtext: #767676;
+}
+:root {
+    --woocommerce: #a46497;
+    --wc-green: #7ad03a;
+    --wc-red: #a00;
+    --wc-orange: #ffba00;
+    --wc-blue: #2ea2cc;
+    --wc-primary: #a46497;
+    --wc-primary-text: white;
+    --wc-secondary: #ebe9eb;
+    --wc-secondary-text: #515151;
+    --wc-highlight: #77a464;
+    --wc-highligh-text: white;
+    --wc-content-bg: #fff;
+    --wc-subtext: #767676;
+}
+:root {
+    --yith-wcan-filters_colors_titles: #434343;
+    --yith-wcan-filters_colors_background: #FFFFFF;
+    --yith-wcan-filters_colors_accent: #A7144C;
+    --yith-wcan-filters_colors_accent_r: 167;
+    --yith-wcan-filters_colors_accent_g: 20;
+    --yith-wcan-filters_colors_accent_b: 76;
+    --yith-wcan-color_swatches_border_radius: 100%;
+    --yith-wcan-color_swatches_size: 30px;
+    --yith-wcan-labels_style_background: #FFFFFF;
+    --yith-wcan-labels_style_background_hover: #A7144C;
+    --yith-wcan-labels_style_background_active: #A7144C;
+    --yith-wcan-labels_style_text: #434343;
+    --yith-wcan-labels_style_text_hover: #FFFFFF;
+    --yith-wcan-labels_style_text_active: #FFFFFF;
+    --yith-wcan-anchors_style_text: #434343;
+    --yith-wcan-anchors_style_text_hover: #A7144C;
+    --yith-wcan-anchors_style_text_active: #A7144C;
+}
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.elementor *, .elementor *:before, .elementor *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}}
+
+
+
+
+    
